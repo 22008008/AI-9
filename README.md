@@ -1,4 +1,4 @@
-# Ex.No: 11 Planning – Monkey Banana Problem
+# Ex.No: 9 Planning – Monkey Banana Problem
 
 NAME: Sri Ranjani Priya P
 REGISTER NUMBER : 212222220049
